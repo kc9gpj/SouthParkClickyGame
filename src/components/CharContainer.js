@@ -57,7 +57,7 @@ class CharContainer extends Component {
 
     render() {
         return (
-            <div className="container" id="charContainer">
+            <div className="container" id="charContainer" className="charContainer">
                 <div className="row">
                     {chars.map(char => <Char src={char.image} key={char.id} id={char.id} alt={char.name} stopGame={this.stopGame} handleClick={this.handleClick} score={this.state.score} />)}
                 </div>

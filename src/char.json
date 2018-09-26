@@ -48,5 +48,15 @@
         "id": 10,
         "name": "Token",
         "image": "https://i.imgur.com/Uk3WM6t.png"
+    },
+    {
+        "id": 11,
+        "name": "Principal",
+        "image": "https://i.imgur.com/SEzDzOA.png"
+    },
+    {
+        "id": 12,
+        "name": "Mackey",
+        "image": "https://i.imgur.com/jj3LrMl.png"
     }
 ]

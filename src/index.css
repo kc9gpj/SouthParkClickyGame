@@ -5,15 +5,20 @@ body {
 }
 
 body {
-  /* background-image: url("https://i.imgur.com/vFfgDzC.jpg");
+  background-image: url("http://i.imgur.com/qqHfLDA.jpg");
   background-repeat: no-repeat;
-  background-size: 100%; */
+  background-size: 100%;
 
 }
 
 .charContainer {
-  height: 50px;
-  width: 50px
+  height: 600px;
+  width: 600px;
+  margin: auto;
+}
+
+.info {
+  color: white;
 }
 
 
