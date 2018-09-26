@@ -2,61 +2,61 @@
     {
       "id": 1,
       "name": "Butters",
-      "image": "https://i.imgur.com/IHTkjGH.png"
+      "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/butters-stotch.png?height=98"
     },
     {
         "id": 2,
         "name": "Cartman",
-        "image": "https://i.imgur.com/TP3sdnP.png"
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/eric-cartman.png?height=98"
     },
     {
         "id": 3,
         "name": "Chef",
-        "image": "https://i.imgur.com/lbVLlkj.png"
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/adults/chef.png?height=98"
     },
     {
         "id": 4,
         "name": "Kenny",
-        "image": "https://i.imgur.com/5SYMCvX.png"
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/adults/chef.png?height=98"
     },
     {
         "id": 5,
         "name": "Kyle",
-        "image": "https://i.imgur.com/W7aBVZq.png"
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/kyle-broflovski.png?height=98"
     },
     {
         "id": 6,
         "name": "Randy",
-        "image": "https://i.imgur.com/HApa4da.png"
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/adults/randy-marsh.png?height=98"
     },
     {
         "id": 7,
         "name": "Slave",
-        "image": "https://i.imgur.com/xvd7iuB.png"
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/adults/mrslave.png?height=98"
     },
     {
         "id": 8,
         "name": "Stan",
-        "image": "https://i.imgur.com/G3QuvPx.png"
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/stan-marsh.png?height=98"
     },
     {
         "id": 9,
         "name": "Timmy",
-        "image": "https://i.imgur.com/Mx2G0RR.png"
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/timmy-burch.png?height=98"
     },
     {
         "id": 10,
         "name": "Token",
-        "image": "https://i.imgur.com/Uk3WM6t.png"
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/token-black.png?height=98"
     },
     {
         "id": 11,
         "name": "Principal",
-        "image": "https://i.imgur.com/SEzDzOA.png"
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/adults/education-pc-principal.png?height=98"
     },
     {
         "id": 12,
         "name": "Mackey",
-        "image": "https://i.imgur.com/jj3LrMl.png"
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/adults/mackey.png?height=98"
     }
 ]
