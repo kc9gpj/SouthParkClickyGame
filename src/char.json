@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Butters",
+      "image": "https://i.imgur.com/IHTkjGH.png"
+    },
+    {
+        "id": 2,
+        "name": "Cartman",
+        "image": "https://i.imgur.com/TP3sdnP.png"
+    },
+    {
+        "id": 3,
+        "name": "Chef",
+        "image": "https://i.imgur.com/lbVLlkj.png"
+    },
+    {
+        "id": 4,
+        "name": "Kenny",
+        "image": "https://i.imgur.com/5SYMCvX.png"
+    },
+    {
+        "id": 5,
+        "name": "Kyle",
+        "image": "https://i.imgur.com/W7aBVZq.png"
+    },
+    {
+        "id": 6,
+        "name": "Randy",
+        "image": "https://i.imgur.com/HApa4da.png"
+    },
+    {
+        "id": 7,
+        "name": "Slave",
+        "image": "https://i.imgur.com/xvd7iuB.png"
+    },
+    {
+        "id": 8,
+        "name": "Stan",
+        "image": "https://i.imgur.com/G3QuvPx.png"
+    },
+    {
+        "id": 9,
+        "name": "Timmy",
+        "image": "https://i.imgur.com/Mx2G0RR.png"
+    },
+    {
+        "id": 10,
+        "name": "Token",
+        "image": "https://i.imgur.com/Uk3WM6t.png"
+    }
+]
