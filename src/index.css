@@ -5,9 +5,8 @@ body {
 }
 
 body {
-  background-image: url("https://wallpapertag.com/wallpaper/full/1/8/2/434362-south-park-backgrounds-2560x1600-pictures.jpg");
-  background-repeat: no-repeat;
-  background-size: 100%;
+  background-image: url("cartman.png");
+  background-repeat: repeat;
 }
 
 .charContainer {
