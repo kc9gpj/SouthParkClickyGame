@@ -7,8 +7,6 @@ body {
 body {
   background-image: url("cartman.png");
   background-repeat: repeat;
-  background-position: center center;
-  background-size:     cover; 
 }
 
 .charContainer {
